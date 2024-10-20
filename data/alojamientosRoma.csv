@@ -1,0 +1,21 @@
+destination,city,checkin_date,checkout_date,address,accommodation_type_name,distance,checkin,checkout,review_score,price_total,price_night,hotel_name,class
+Roma,Roma,2025-2-13,2025-2-16,95 Via di Porta Maggiore - Via G. Giolitti,Apartahotel,2.62,15:00,10:00,9.4,683.57,215.856666666667,Major House - Luxury Apartments in Rome,0.0
+Roma,Roma,2025-2-13,2025-2-16,Via Montebello 45,Hotel,1.84,14:00,11:00,7.3,250.65,71.55,Raeli Hotel Floridia,3.0
+Roma,Roma,2025-2-13,2025-2-16,Via Volturno 22,Hotel,1.71,14:00,11:00,7.7,243.12,69.04,Raeli Hotel Regio,3.0
+Roma,Roma,2025-2-13,2025-2-16,Via della Scala 17,Apartamento,1.31,15:00,11:00,8.3,330.0,80.0,trastevere art,0.0
+Roma,Roma,2025-2-13,2025-2-16,28 Vicolo del Cedro,Apartamento,1.34,15:00,10:00,8.5,353.0,99.0,Cedro Home,0.0
+Roma,Rome,2025-2-13,2025-2-16,"Via Dei Mille 41, Building A, Flat 18",Hostal o pensión,2.00,13:00,10:30,7.1,234.12,68.04,Friendship Place,0.0
+Roma,Roma,2025-2-13,2025-2-16,Via Magenta 34,Hotel,1.92,14:00,11:00,6.9,244.8,66.6,Raeli Hotel Luce,4.0
+Roma,Roma,2025-2-13,2025-2-16,Vicolo Paganica 30,Apartamento,0.50,14:00,11:00,7.6,330.0,98.0,Ancient Roman Mansion,0.0
+Roma,Roma,2025-2-13,2025-2-16,Via Vercelli 5,Apartamento,3.19,15:00,10:30,8.7,268.5,67.5,Vercelli Guest House near San Giovanni,0.0
+Roma,Roma,2025-2-13,2025-2-16,Via Dei Mille 6,Hostal o pensión,1.92,14:00,11:00,7.3,220.35,63.45,IL Sole,0.0
+Roma,Roma,2025-2-13,2025-2-16,"Viale di Trastevere, 269",Bed & breakfast,2.68,14:00,10:00,8.7,216.0,60.0,Roma Trastevere Holiday,0.0
+Roma,Rome,2025-2-13,2025-2-16,Via Napoli 3,Hotel,1.17,13:00,10:00,7.2,312.3,92.1,Hotel Corona,3.0
+Roma,Roma,2025-2-13,2025-2-16,Via Calatafimi 10/b,Hotel,1.75,14:00,11:00,7.0,230.4,64.8,Raeli Hotel Noto,3.0
+Roma,Roma,2025-2-13,2025-2-16,30 Via Napoleone III,Hostal o pensión,1.61,14:00,11:00,9.2,375.0,108.0,Domus Maxima - Rome Suite & Rooms,0.0
+Roma,Roma,2025-2-13,2025-2-16,16 Piazza Conca d'Oro,Apartamento,6.08,15:00,10:00,9.8,203.18,55.7266666666667,La CASA di EMY,0.0
+Roma,Roma,2025-2-13,2025-2-16,Via Domenichino 7,Hotel,1.36,11:00,10:00,8.2,351.73,109.243333333333,Hotel Martino Ai Monti,1.0
+Roma,Roma,2025-2-13,2025-2-16,Via Quattro Novembre 154,Hotel,0.30,15:00,11:00,8.2,448.92,134.64,Hotel Traiano,4.0
+Roma,Roma,2025-2-13,2025-2-16,Via Dei Quattro Cantoni 6,Apartamento,1.14,12:30,10:00,8.0,256.88,66.96,Cavour 1&2,0.0
+Roma,Roma,2025-2-13,2025-2-16,Via Ottaviano 105,Hostal o pensión,2.52,14:00,10:00,8.3,352.5,97.5,Ottaviano Smart Rooms,0.0
+Roma,Roma,2025-2-13,2025-2-16,113 Via delle Quattro Fontane,Hostel,0.99,15:00,10:00,9.0,331.25,103.416666666667,JO&JOE ROMA,0.0

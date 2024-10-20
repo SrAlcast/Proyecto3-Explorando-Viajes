@@ -1,0 +1,21 @@
+destination,city,checkin_date,checkout_date,address,accommodation_type_name,distance,checkin,checkout,review_score,price_total,price_night,hotel_name,class
+Paris,PARIS,2025-2-13,2025-2-16,6 rue de Surène,Hotel,2.66,14:00,11:00,7.8,454.48,151.493333333333,Hôtel La Sanguine,2.0
+Paris,Paris,2025-2-13,2025-2-16,1 rue jacquard,Hotel,1.80,15:00,11:30,7.9,215.1,71.7,Hotel Luna Park,1.0
+Paris,Paris,2025-2-13,2025-2-16,57 - 63 Avenue Jean Jaures 19 Arr. ,Hotel,3.62,12:00,12:00,7.2,205.14,68.38,ibis Budget Paris La Villette 19ème,2.0
+Paris,Paris,2025-2-13,2025-2-16,21/23 Avenue de la Porte de Châtillon,Hotel,4.60,14:00,12:00,7.3,170.16,56.72,hotelF1 Paris Porte de Châtillon,1.0
+Paris,Paris,2025-2-13,2025-2-16,37 Boulevard Rochechouart,Hostel,2.95,15:00,11:00,7.4,295.5,98.5,Le Regent Montmartre by Hiphophostels,0.0
+Paris,Paris,2025-2-13,2025-2-16,24 Rue Danielle Casanova,Apartamento,1.96,15:00,11:00,8.2,445.33,148.443333333333,WS Louvre - Casanova,0.0
+Paris,Paris,2025-2-13,2025-2-16,"20, rue du Temple",Hotel,0.27,14:00,11:00,7.7,434.5,144.833333333333,D'win,2.0
+Paris,Paris,2025-2-13,2025-2-16,45 rue du Docteur Babinski,Hotel,5.10,14:30,12:00,6.1,179.24,59.7466666666667,ibis budget Paris Porte De Montmartre,2.0
+Paris,Paris,2025-2-13,2025-2-16,114 Avenue Daumesnil,Apartahotel,2.91,16:00,11:00,9.0,473.78,157.926666666667,Appart'City Collection Paris Gare de Lyon,4.0
+Paris,Paris,2025-2-13,2025-2-16,15-21 Boulevard Romain Rolland,Hotel,4.52,12:00,12:00,7.3,215.61,71.87,ibis budget Porte D'Orleans,2.0
+Paris,Paris,2025-2-13,2025-2-16,6 rue Bervic,Hotel,3.06,14:00,11:00,7.4,253.35,84.4510303030303,Angleterre Hotel,1.0
+Paris,Paris,2025-2-13,2025-2-16,16 rue du Faubourg Saint-Martin,Hotel,1.49,16:00,12:00,7.4,350.4,116.8,Hotel Mimosa Paris,1.0
+Paris,Paris,2025-2-13,2025-2-16,191 Rue Saint-Honoré,Apartamento,1.66,15:00,11:00,8.1,386.21,128.736666666667,WS Louvre - Saint-Roch,3.0
+Paris,Paris,2025-2-13,2025-2-16,55 rue de Plaisance,Hotel,3.56,15:00,11:00,7.7,310.18,103.393333333333,55 Hôtel Montparnasse,3.0
+Paris,Paris,2025-2-13,2025-2-16,102 Boulevard de Picpus,Hotel,3.64,14:00,10:30,7.4,250.01,83.3366666666667,Grand Hôtel du Bel Air,2.0
+Paris,Paris,2025-2-13,2025-2-16,"92, rue de Vaugirard",Hotel,2.16,15:00,12:00,9.0,750.0,250.0,Hôtel Des Grands Voyageurs,4.0
+Paris,Paris,2025-2-13,2025-2-16,29 rue du docteur Babinski,Hotel,5.12,14:00,12:00,6.4,134.88,44.96,HotelF1 Paris Saint Ouen Marché Aux Puces,1.0
+Paris,Paris,2025-2-13,2025-2-16,"33, Rue Des Ecoles",Hotel,0.93,15:00,12:00,8.1,470.36,156.786666666667,Hôtel WYLD Saint Germain ex Hotel Moderne Saint Germain,3.0
+Paris,Paris,2025-2-13,2025-2-16,1 rue Sthrau,Hotel,3.46,15:00,11:30,8.7,418.18,139.393333333333,Urban Bivouac Hotel,3.0
+Paris,Paris,2025-2-13,2025-2-16,25 Avenue Montaigne,Hotel,3.61,15:00,12:00,9.2,6063.6,2021.2,Hôtel Plaza Athénée - Dorchester Collection,5.0
