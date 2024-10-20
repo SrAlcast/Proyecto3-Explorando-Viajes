@@ -37,9 +37,9 @@ pip install -r requirements.txt
 
 ## 🚀 Procedimiento
 
-1. **Vuelos**: Se consultaron las rutas Madrid-París y Madrid-Roma para obtener precios promedio usando la API de Amadeus, filtrando por vuelos directos en el segundo trimestre de 2025.
+1. **Vuelos**: Se consultaron las rutas Madrid-París y Madrid-Roma para obtener precios promedio usando la API de Amadeus, filtrando por vuelos directos en febrero de 2025.
    
-2. **Alojamientos**: Se obtuvo una muestra representativa de precios y disponibilidad de hoteles y otros alojamientos en ambas ciudades, utilizando la API de [Booking](https://www.booking.com/) (puedes sustituir por Airbnb o similar).
+2. **Alojamientos**: Se obtuvo una muestra representativa de precios y disponibilidad de hoteles y otros alojamientos en ambas ciudades, utilizando la API de [Booking](https://www.booking.com/).
 
 3. **Actividades**: Se extrajeron datos de la web de HelloTickets sobre tours, atracciones y actividades para turistas en cada ciudad mediante *scraping* con BeautifulSoup.
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 - **Costos de Vuelos**: Los vuelos de Madrid a París presentan precios ligeramente más bajos que los vuelos a Roma durante el segundo trimestre de 2025.
 - **Alojamientos**: Los costos de alojamiento en París son, en promedio, más elevados que en Roma, especialmente en el centro de la ciudad.
-- **Actividades**: París ofrece una mayor cantidad de actividades culturales y museos, mientras que Roma destaca en términos de tours históricos y gastronómicos.
+- **Actividades**: Roma ofrece una mayor cantidad de actividades culturales y museos, mientras que Paris destaca en términos de tours históricos y gastronómicos.
   
 En conclusión, para una pareja que busca una experiencia más económica y cultural, Roma es una mejor opción, mientras que París puede ser más interesante para aquellos interesados en el arte y la alta gastronomía.
 
